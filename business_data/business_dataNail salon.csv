@@ -1,0 +1,576 @@
+company_name,phone,website,rating,review_count,ranking,city,state,timezone,industry
+PURE NAIL BAR,(727) 873-7134,,4.5,73,112,,,,
+Fantastic Nails,(813) 544-0041,,4.9,92,85,,,,
+Express Nail,(813) 932-7609,,4.8,92,48,,,,
+Tampa Nails,(813) 513-8600,,4.5,1,33,,,,
+Meraki Nail Lounge,(727) 914-0100,,4.7,1,30,,,,
+Bliss Nail Gibsonton by Sarah,(813) 666-7909,,4.6,1,24,,,,
+AquaStone Nails & Spa 1,(727) 451-0900,,4.8,1,21,,,,
+AquaStone Nails & Spa 1,(727) 451-0900,,4.8,1,20,,,,
+Busch Nails and Lashes,(813) 999-9888,,4.9,1,17,,,,
+Classy Nails Of Tampa,(813) 559-1445,,4.8,1,13,,,,
+Hot Nails,(813) 898-2741,,3.7,89,12,,,,
+Moc Nail Spa - Nontoxic | Organic,(727) 281-4381,,4.9,2,11,,,,
+Lavue Nail Lounge,(727) 353-8888,,4.8,2,10,,,,
+Tipped in Tampa Nail and Skin Bar,(813) 252-8058,,4.5,79,9,,,,
+Volcano Nail Spa,(727) 319-6370,,4.9,1,8,,,,
+Sweet Nail Spa,(813) 398-8858,,4.8,1,7,,,,
+Nail Art & Spa,(727) 999-1581,,4.8,3,5,,,,
+Nails by Lina,(727) 323-8692,,4.9,1,3,,,,
+V Nail and Beauty Tampa,(813) 282-9730,,4.9,1,2,,,,
+Garden Avenue Boutique - A Nail Salon,(727) 509-3099,,4.5,94,1,,,,
+Greenwood Nails and Spa,(432) 247-1194,,4.1,57,119,,,,
+Trinity Salon & Spa,(432) 222-4583,,4.6,5,118,,,,
+Lemon and Velvet Salon,(432) 247-1034,,4.6,24,117,,,,
+Vida Nails And Spa,(432) 614-0609,,4.4,90,116,,,,
+D K Nails & Spa,(432) 366-0084,,4.2,94,113,,,,
+Color Nails of Odessa,(432) 272-2525,,4.9,83,112,,,,
+TSL SALON,(432) 694-2579,,4.3,24,111,,,,
+PureBeautyDiana,(432) 703-4298,,5.0,3,108,,,,
+Sola Salon Studios,(469) 321-6603,,4.3,6,107,,,,
+Hola Bonita Midland,(432) 661-8959,,4.4,59,106,,,,
+Star Nail & Spa,(432) 550-0350,,4.4,7,105,,,,
+Salon 52,(432) 550-0288,,4.3,54,103,,,,
+Ray-Clark Salon,(432) 697-1508,,4.1,13,102,,,,
+Mmy Nails Studio (please call for availabilities / make reservation) ),(432) 231-3609,,4.4,39,99,,,,
+Fancy Nails,(432) 362-2921,,4.2,53,92,,,,
+Barry Morris Salon,(432) 570-7100,,5.0,24,91,,,,
+Pro Nails,(432) 362-8989,,4.1,56,90,,,,
+Dollnails,(432) 222-1790,,,0,89,,,,
+Wynn Nails,(432) 363-3398,,3.6,65,88,,,,
+Kilye’s Nalis,(432) 230-6203,,,0,87,,,,
+Serenity Salon & Spa,(432) 570-5859,,4.5,33,85,,,,
+Texas Nails Bar,(432) 272-6553,,4.6,98,84,,,,
+Xlent Nails Salon,(432) 301-9898,,,0,81,,,,
+LaDeboNa Salon and Dayspa,(432) 683-4171,,4.2,54,80,,,,
+Sophsti-Cuts Salon,(432) 689-2887,,4.7,42,79,,,,
+Us Nails,(432) 362-1717,,4.0,1,77,,,,
+Kiikkis,(432) 352-8164,,,0,76,,,,
+Unique Nails & Spa,(432) 362-1717,,4.8,1,74,,,,
+A'RaeDidIt,(469) 693-1087,,,0,71,,,,
+Shear Class Salon,(432) 278-8825,,5.0,1,68,,,,
+Nailtiques & Spa,(432) 262-6620,,3.3,4,66,,,,
+Gala Nails & Spa,(432) 699-8048,,2.9,33,65,,,,
+Happy Nails,(432) 688-8818,,3.7,42,64,,,,
+Sunny Natural Nails,(432) 218-6301,,5.0,9,63,,,,
+Oasis Nails,(432) 682-4435,,3.3,70,61,,,,
+"Regal Nails, Salon & Spa",(432) 694-6129,,3.5,42,60,,,,
+Meraki Nail Bar,(432) 466-9903,,5.0,4,58,,,,
+H2O Nails & Spa,(432) 689-2498,,3.7,38,57,,,,
+Lili's Nails & Spa,(432) 272-0237,,3.9,70,56,,,,
+Le Nail Salon,(432) 699-8808,,,0,55,,,,
+Top Nail,(432) 218-6061,,4.0,27,54,,,,
+James Russell Salon,(432) 559-6750,,5.0,2,53,,,,
+House of nails Midland,(432) 999-1855,,5.0,8,52,,,,
+Valley Nails and Spa,(432) 614-9909,,3.3,58,51,,,,
+Lavender Nails Spa,(432) 704-5405,,3.7,76,47,,,,
+Nail Port Express,(432) 684-6690,,3.9,33,46,,,,
+Collagen Nails & Spa,(432) 684-9999,,4.0,82,45,,,,
+Gossip Nails & Spa,(432) 488-7104,,4.2,56,44,,,,
+KD Nails & Spa,(432) 247-5777,,4.0,61,43,,,,
+Dv Nails & Spa,(432) 218-7756,,3.9,52,41,,,,
+Serenity Nail & Spa,(432) 704-5296,,4.0,68,40,,,,
+Gravity Nails - Lash & Spa,(432) 689-3546,,4.6,62,39,,,,
+Vip Nails,(432) 684-3799,,4.2,94,38,,,,
+DIVA NAILS & SPA,(432) 699-5454,,4.1,86,37,,,,
+Luxury Nail Spa!,(432) 247-1519,,4.0,84,36,,,,
+Lang Nails & Spa,(432) 520-8786,,4.0,86,35,,,,
+Royal Nails Spa,(432) 242-1226,,4.3,45,33,,,,
+I Love Nails and Spa,(432) 684-9920,,4.2,86,31,,,,
+Diamond Nails & Spa,(432) 699-2595,,4.1,83,27,,,,
+VII Beauty Lounge,(432) 389-6868,,4.8,80,25,,,,
+Magic Nails & Spa,(432) 699-8808,,4.6,87,24,,,,
+Signature Nail Bar,(432) 258-4729,,4.5,52,23,,,,
+Allure Nails and Spa,(432) 699-1617,,4.6,100,20,,,,
+Prestige Nail Lounge,(432) 218-8923,,4.7,35,17,,,,
+Sky Nail Lounge,(432) 203-7117,,4.3,86,16,,,,
+J&J Nails & Spa,(432) 218-7760,,5.0,18,15,,,,
+Amado's Salon,(432) 618-9840,,4.5,13,14,,,,
+Shine Nails & Spa,(432) 699-8048,,5.0,23,10,,,,
+B. Nicole Studios Nail Salon,(760) 752-5550,,5.0,22,120,,,,
+Genesis & Co,(760) 881-1818,,4.6,32,117,,,,
+Doin2much,(760) 552-0286,,,0,116,,,,
+Deez_Nailzzz,(760) 954-8219,,,0,115,,,,
+369Nails,(760) 221-6597,,,0,114,,,,
+Nails By Shaayy,(323) 506-4670,,,0,113,,,,
+Hill Top Salon & Barber Spring Valley Lake,(442) 229-2121,,4.6,34,111,,,,
+Ebdekan,(626) 739-0903,,5.0,16,109,,,,
+Arlette Salon And Beauty,(760) 524-1561,,4.7,34,106,,,,
+#1 Time Nail supply & Nails,(442) 280-5293,,5.0,4,105,,,,
+Bellezza Hair & Nail Studio,(760) 218-7399,,4.6,93,104,,,,
+Mimi’s Eye Candy Nail Salon,(661) 470-5348,,,0,103,,,,
+Magic nails,(760) 244-8305,,4.0,67,102,,,,
+Vanity Salon & Barbershop,(760) 946-0777,,4.3,72,101,,,,
+Studio N Salon,(760) 881-0274,,5.0,5,100,,,,
+Hair Precinct,(760) 243-1600,,4.4,67,99,,,,
+Diana Andrade Nails,(909) 244-6356,,5.0,15,98,,,,
+Love Beauty Lounge & Suites,(760) 694-6095,,5.0,30,97,,,,
+Alpha Brush,(760) 947-1354,,,0,95,,,,
+Bella Mia Salon,(760) 947-2712,,4.7,44,94,,,,
+City Nails,(760) 467-0986,,5.0,4,93,,,,
+Kimberly Nail & Spa,(760) 948-2858,,3.3,86,92,,,,
+Hair & Nail Republic,(760) 981-4600,,4.5,70,91,,,,
+A Wild Rose Salon and Spa,(760) 868-1878,,4.7,92,90,,,,
+Fancy Nails,(760) 947-7555,,4.5,68,89,,,,
+Color Worx Hair and Nail Design,(760) 242-7672,,4.9,31,88,,,,
+NailArts By Leila,(442) 414-3655,,5.0,6,87,,,,
+I Love Nails Salon,(442) 229-2176,,4.5,8,86,,,,
+Harmony Nails and Spa,(760) 530-9900,,3.2,32,85,,,,
+Tin Kitten Beauty Bar,(760) 221-2705,,4.9,65,84,,,,
+Enter Nail Spa,(760) 241-8389,,3.1,55,83,,,,
+Mars Nail Bar,(760) 905-7123,,5.0,1,82,,,,
+Blossomed Beauty Lounge,(760) 983-5025,,5.0,18,81,,,,
+Le Posh Nails & Spa,(760) 949-2299,,4.6,39,80,,,,
+Nails By Helen,(760) 241-2277,,5.0,7,79,,,,
+SM Spa Nail & Hair,(760) 952-1716,,3.3,89,78,,,,
+Crystal's Nails & Spa,(760) 998-3535,,4.7,81,77,,,,
+Talking Heads Hair & Nail Salon,(442) 242-2317,,4.5,29,76,,,,
+Nails By Orientals,(760) 956-7527,,3.8,47,75,,,,
+Beautybypolly,(909) 543-8464,,5.0,12,74,,,,
+Apple valley nails,(760) 242-2938,,3.8,23,72,,,,
+Studio Nails,(760) 949-5541,,4.2,29,70,,,,
+Sky Nails,(760) 244-6657,,4.0,69,69,,,,
+Darval Beauty,(760) 530-8499,,5.0,11,67,,,,
+i Nails Spa,(760) 998-5140,,5.0,5,65,,,,
+Eagle Nails & Spa NA,(760) 955-6438,,3.3,88,64,,,,
+Gotcha Nail Spa,(760) 991-6688,,4.0,87,63,,,,
+Excellence Nails - Nails Salon in Victorville,(760) 951-9909,,4.6,20,62,,,,
+Shanelle’s Nails,(760) 684-3615,,4.0,2,60,,,,
+Lilly's Nails,(760) 998-2228,,4.6,29,59,,,,
+Time For Nails & Spa,(442) 800-5176,,4.7,24,57,,,,
+Super Hot Nails & Spa,(760) 242-1464,,4.1,54,55,,,,
+Fabulous Nails,(760) 669-0891,,4.5,46,54,,,,
+Rizo Nails & Beauty Salon,(442) 255-4053,,5.0,13,48,,,,
+Chip-N-Nails,(760) 952-2003,,4.3,36,47,,,,
+Jasmine Nails Spa,(760) 596-3307,,4.1,99,45,,,,
+TQ Nail Salon,(760) 995-4495,,4.7,70,41,,,,
+Nail Bar & Spa,(760) 947-0500,,3.8,84,37,,,,
+All Star Nails & Spa,(760) 503-1141,,5.0,24,34,,,,
+#1 Nail Spa,(760) 666-9666,,4.6,34,33,,,,
+Classic Nails,(760) 955-9995,,4.5,82,24,,,,
+First Nails,(760) 961-1813,,4.8,46,22,,,,
+Royal Nails Spa,(760) 241-8389,,4.9,51,17,,,,
+Luxe Nail Bar,(760) 613-1537,,4.8,20,15,,,,
+Classy Nails & Spa,(760) 946-1188,,5.0,49,9,,,,
+Angiiies Beauty Studio,(909) 837-8414,,5.0,15,2,,,,
+PURE NAIL BAR,(727) 873-7134,,4.5,73,118,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Nova Nails & Beauty Spa,(813) 542-7982,,4.8,72,106,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Fantastic Nails,(813) 544-0041,,4.9,92,71,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Express Nail,(813) 932-7609,,4.8,92,55,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Meraki Nail Lounge,(727) 914-0100,,4.7,1,38,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Busch Nails and Lashes,(813) 999-9888,,4.9,1,33,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Tampa Nails,(813) 513-8600,,4.5,1,25,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Bliss Nail Gibsonton by Sarah,(813) 666-7909,,4.6,1,19,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+AquaStone Nails & Spa 1,(727) 451-0900,,4.8,1,13,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Moc Nail Spa - Nontoxic | Organic,(727) 281-4381,,4.9,2,11,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Lavue Nail Lounge,(727) 353-8888,,4.8,2,9,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Volcano Nail Spa,(727) 319-6370,,4.9,1,7,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Classy Nails Of Tampa,(813) 559-1445,,4.8,1,6,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Sweet Nail Spa,(813) 398-8858,,4.8,1,5,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Nail Art & Spa,(727) 999-1581,,4.8,3,4,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Nails by Lina,(727) 323-8692,,4.9,1,3,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+V Nail and Beauty Tampa,(813) 282-9730,,4.9,1,2,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Greenwood Nails and Spa,(432) 247-1194,,4.1,57,118,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Vida Nails And Spa,(432) 614-0609,,4.4,90,116,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+D K Nails & Spa,(432) 366-0084,,4.2,94,115,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Trinity Salon & Spa,(432) 222-4583,,4.6,5,114,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Color Nails of Odessa,(432) 272-2525,,4.9,83,110,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lemon and Velvet Salon,(432) 247-1034,,4.6,24,108,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Star Nail & Spa,(432) 550-0350,,4.4,7,107,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Serenity Salon & Spa,(432) 570-5859,,4.5,33,106,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+TSL SALON,(432) 694-2579,,4.3,24,104,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+PureBeautyDiana,(432) 703-4298,,5.0,3,103,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sophsti-Cuts Salon,(432) 689-2887,,4.7,42,102,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Us Nails,(432) 362-1717,,4.0,1,101,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Kiikkis,(432) 352-8164,,,0,100,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Ray-Clark Salon,(432) 697-1508,,4.1,13,97,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sola Salon Studios,(469) 321-6603,,4.3,6,96,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Hola Bonita Midland,(432) 661-8959,,4.4,59,95,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+A'RaeDidIt,(469) 693-1087,,,0,93,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Pro Nails,(432) 362-8989,,4.1,56,92,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Salon 52,(432) 550-0288,,4.3,54,91,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Shear Class Salon,(432) 278-8825,,5.0,1,88,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Barry Morris Salon,(432) 570-7100,,5.0,24,86,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Fancy Nails,(432) 362-2921,,4.2,53,83,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Wynn Nails,(432) 363-3398,,3.6,65,82,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Dollnails,(432) 222-1790,,,0,81,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Texas Nails Bar,(432) 272-6553,,4.6,98,76,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Kilye’s Nalis,(432) 230-6203,,,0,75,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Le Nail Salon,(432) 699-8808,,,0,73,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+LaDeboNa Salon and Dayspa,(432) 683-4171,,4.2,54,72,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+James Russell Salon,(432) 559-6750,,5.0,2,70,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Xlent Nails Salon,(432) 301-9898,,,0,69,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Unique Nails & Spa,(432) 362-1717,,4.8,1,64,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Serenity Nail & Spa,(432) 704-5296,,4.0,68,63,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+"Regal Nails, Salon & Spa",(432) 694-6129,,3.5,42,60,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Amado's Salon,(432) 618-9840,,4.5,13,59,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Nailtiques & Spa,(432) 262-6620,,3.3,4,58,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Gala Nails & Spa,(432) 699-8048,,2.9,33,57,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Happy Nails,(432) 688-8818,,3.7,42,56,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lili's Nails & Spa,(432) 272-0237,,3.9,70,54,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sunny Natural Nails,(432) 218-6301,,5.0,9,53,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Valley Nails and Spa,(432) 614-9909,,3.3,58,52,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Oasis Nails,(432) 682-4435,,3.3,70,51,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+H2O Nails & Spa,(432) 689-2498,,3.7,38,49,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lavender Nails Spa,(432) 704-5405,,3.7,76,48,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Meraki Nail Bar,(432) 466-9903,,5.0,4,45,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+House of nails Midland,(432) 999-1855,,5.0,8,44,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Collagen Nails & Spa,(432) 684-9999,,4.0,82,43,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Top Nail,(432) 218-6061,,4.0,27,42,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+KD Nails & Spa,(432) 247-5777,,4.0,61,41,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Gossip Nails & Spa,(432) 488-7104,,4.2,56,40,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Nail Port Express,(432) 684-6690,,3.9,33,39,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Luxury Nail Spa!,(432) 247-1519,,4.0,84,38,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Dv Nails & Spa,(432) 218-7756,,3.9,52,37,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Gravity Nails - Lash & Spa,(432) 689-3546,,4.6,62,35,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lang Nails & Spa,(432) 520-8786,,4.0,86,34,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+DIVA NAILS & SPA,(432) 699-5454,,4.1,86,33,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+I Love Nails and Spa,(432) 684-9920,,4.2,86,31,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Diamond Nails & Spa,(432) 699-2595,,4.1,83,30,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Vip Nails,(432) 684-3799,,4.2,93,29,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Royal Nails Spa,(432) 242-1226,,4.3,45,28,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sky Nail Lounge,(432) 203-7117,,4.3,86,26,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+VII Beauty Lounge,(432) 389-6868,,4.8,80,22,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Magic Nails & Spa,(432) 699-8808,,4.6,87,18,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Prestige Nail Lounge,(432) 218-8923,,4.7,35,17,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Allure Nails and Spa,(432) 699-1617,,4.6,100,16,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+J&J Nails & Spa,(432) 218-7760,,5.0,18,15,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Signature Nail Bar,(432) 258-4729,,4.5,52,13,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Shine Nails & Spa,(432) 699-8048,,5.0,23,12,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Hair Senses,(760) 949-9096,,4.4,33,119,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Clara’s Beauty Transformations,(909) 246-3875,,4.6,11,118,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Genesis & Co,(760) 881-1818,,4.6,32,116,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Doin2much,(760) 552-0286,,,0,115,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hair Precinct,(760) 243-1600,,4.4,67,114,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Deez_Nailzzz,(760) 954-8219,,,0,113,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+369Nails,(760) 221-6597,,,0,112,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Alpha Brush,(760) 947-1354,,,0,109,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails By Shaayy,(323) 506-4670,,,0,108,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hill Top Salon & Barber Spring Valley Lake,(442) 229-2121,,4.6,34,107,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Color Worx Hair and Nail Design,(760) 242-7672,,4.9,31,106,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Ebdekan,(626) 739-0903,,5.0,16,103,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Arlette Salon And Beauty,(760) 524-1561,,4.7,34,102,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bellezza Hair & Nail Studio,(760) 218-7399,,4.6,93,101,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+#1 Time Nail supply & Nails,(442) 280-5293,,5.0,4,100,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Tin Kitten Beauty Bar,(760) 221-2705,,4.9,65,99,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Mimi’s Eye Candy Nail Salon,(661) 470-5348,,,0,98,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Magic nails,(760) 244-8305,,4.0,67,97,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Vanity Salon & Barbershop,(760) 946-0777,,4.3,72,96,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Shanelle’s Nails,(760) 684-3615,,4.0,2,95,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Studio N Salon,(760) 881-0274,,5.0,5,94,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Kimberly Nail & Spa,(760) 948-2858,,3.3,86,93,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Diana Andrade Nails,(909) 244-6356,,5.0,15,92,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Love Beauty Lounge & Suites,(760) 694-6095,,5.0,30,91,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Bar & Spa,(760) 947-0500,,3.8,84,90,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+#1 Nail Spa,(760) 666-9666,,4.6,34,89,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+A Wild Rose Salon and Spa,(760) 868-1878,,4.7,92,88,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Enter Nail Spa,(760) 241-8389,,3.1,55,87,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Harmony Nails and Spa,(760) 530-9900,,3.2,32,86,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+City Nails,(760) 467-0986,,5.0,4,85,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bella Mia Salon,(760) 947-2712,,4.7,44,84,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fancy Nails,(760) 947-7555,,4.5,68,83,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Le Posh Nails & Spa,(760) 949-2299,,4.6,39,82,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Luxe Nail Bar,(760) 613-1537,,4.8,20,81,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+SM Spa Nail & Hair,(760) 952-1716,,3.3,89,80,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hair & Nail Republic,(760) 981-4600,,4.5,70,79,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+NailArts By Leila,(442) 414-3655,,5.0,6,78,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+I Love Nails Salon,(442) 229-2176,,4.5,8,77,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Mars Nail Bar,(760) 905-7123,,5.0,1,75,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Crystal's Nails & Spa,(760) 998-3535,,4.7,81,74,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Blossomed Beauty Lounge,(760) 983-5025,,5.0,18,73,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails By Helen,(760) 241-2277,,5.0,7,71,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails By Orientals,(760) 956-7527,,3.8,47,70,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Apple valley nails,(760) 242-2938,,3.8,23,67,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Talking Heads Hair & Nail Salon,(442) 242-2317,,4.5,29,66,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Eagle Nails & Spa NA,(760) 955-6438,,3.3,88,65,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Beautybypolly,(909) 543-8464,,5.0,12,63,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Angiiies Beauty Studio,(909) 837-8414,,5.0,15,62,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Sky Nails,(760) 244-6657,,4.0,69,59,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Studio Nails,(760) 949-5541,,4.2,29,58,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Gotcha Nail Spa,(760) 991-6688,,4.0,87,56,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Darval Beauty,(760) 530-8499,,5.0,11,55,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+i Nails Spa,(760) 998-5140,,5.0,5,50,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Super Hot Nails & Spa,(760) 242-1464,,4.1,54,47,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Excellence Nails - Nails Salon in Victorville,(760) 951-9909,,4.6,20,42,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Time For Nails & Spa,(442) 800-5176,,4.7,24,41,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Jasmine Nails Spa,(760) 596-3307,,4.1,99,40,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Rizo Nails & Beauty Salon,(442) 255-4053,,5.0,13,36,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+All Star Nails & Spa,(760) 503-1141,,5.0,24,35,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lilly's Nails,(760) 998-2228,,4.6,29,33,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+TQ Nail Salon,(760) 995-4495,,4.7,70,28,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Chip-N-Nails,(760) 952-2003,,4.3,36,24,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fabulous Nails,(760) 669-0891,,4.5,46,23,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Royal Nails Spa,(760) 241-8389,,4.9,51,15,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Classic Nails,(760) 955-9995,,4.5,82,14,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+First Nails,(760) 961-1813,,4.8,46,12,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Classy Nails & Spa,(760) 946-1188,,5.0,49,9,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+T&Y Nails,(323) 484-0696,,3.7,85,121,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Top spa nails,(310) 218-7029,,4.2,40,120,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Peninsula Nail Spa,(310) 544-4960,,4.5,18,119,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Ann's Nail Boutique,(310) 371-0840,,4.3,14,118,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Amazing Nail Spa,(310) 985-5279,,3.9,81,117,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bay Cities Nails,(310) 921-8241,,4.1,61,116,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails Art,(424) 266-9067,,4.3,19,115,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+BB's Beauty Nail & Spa,(310) 212-6008,,4.2,85,114,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+LNJ Nails,(310) 834-7588,,3.8,69,113,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Beloved Nail Spa,(310) 831-7888,,4.5,55,111,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+TL Nails Spa,(424) 297-3966,,3.7,50,110,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Crystal Nails,(310) 532-5129,,4.6,10,109,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+UNIQ Nails & Hair,(310) 379-7746,,4.4,58,108,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Mimi's Nail,(310) 798-8270,,4.4,16,107,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bliss Nail Lounge,(424) 360-1368,,4.1,75,106,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Contour Nails & Spa,(310) 644-9937,,4.3,51,105,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Kc Exotic Nails & Spa,(310) 970-1369,,4.2,46,104,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Diva nails and spa,(310) 817-5554,,3.9,82,103,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Parise Nails & Spa,(562) 842-9688,,5.0,24,101,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Crenshaw Hair & Nail,(310) 326-7722,,4.9,12,100,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Fashions,(310) 371-8822,,5.0,15,99,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Mod Nail Spa,(310) 376-5588,,4.4,44,96,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Western Nails & Spa,(310) 547-9077,,3.8,88,95,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Ann's Nail Salon,(310) 675-0152,,4.8,23,94,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Twin Nails Spa 2,(424) 266-9087,,4.2,48,93,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fantastic Nails,(310) 329-0739,,3.9,74,92,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Be Be Nail Spa,(310) 373-9853,,4.5,52,91,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Cindy's Nails,(310) 372-1867,,4.5,26,90,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails Fashion,(310) 675-2558,,3.9,64,89,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Rachel Nails Spa,(310) 214-9455,,4.1,84,88,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+V & D Nails Spa,(310) 679-7987,,4.2,80,86,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Redondo Nails and Spa,(310) 540-3353,,4.3,38,85,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Jade Beauty Spa,(310) 371-0840,,4.8,21,84,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hermosa Nail Co,(310) 372-6715,,4.9,15,83,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Super Hair & Nails,(310) 808-9282,,4.6,84,82,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Star & Organic Spa,(310) 378-0880,,4.5,76,81,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bella Nails Lounge,(424) 206-1231,,4.1,77,80,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lynns Fashion Nails,(310) 375-3266,,4.8,14,78,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Magic Nails,(424) 675-4325,,4.4,48,77,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+The Nail Tailor,(424) 226-6193,,5.0,12,75,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Noor Nail Bar,(424) 390-1074,,5.0,28,74,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Jeanny's Nails,(310) 371-3352,,4.4,61,72,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Today Nails II,(310) 672-6368,,4.3,63,71,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lucky Nail,(310) 352-6415,,4.2,42,70,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hair N Nails Co,(310) 644-0052,,4.7,96,69,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Western Nails & Spa,(323) 757-1202,,3.8,82,68,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Express,(310) 978-8510,,4.2,21,67,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Kim's Nail Salon,(310) 676-2230,,4.4,96,66,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+J & J Nails Spa,(310) 516-6277,,4.4,32,64,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Impression Nails & Spa,(310) 530-4888,,4.1,55,62,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Relaxation Nails,(310) 640-0111,,4.3,33,61,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Candy Nail and Lashes,(310) 541-7955,,4.9,38,60,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Milano Nails Bar,(310) 217-0898,,4.2,66,59,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Club & Spa 2,(310) 835-5558,,4.4,63,58,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Beauty Nails & Hair,(310) 513-9829,,4.3,71,56,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Get Spoiled Nails,(310) 540-5804,,4.2,70,54,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+K&K Nails & Spa,(310) 327-7245,,4.7,33,53,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bliss Nail Lounge,(424) 293-1868,,4.6,82,52,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Kathy Nails & Spa,(310) 513-1123,,4.6,76,51,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+City Nails,(310) 323-0349,,4.3,99,50,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Island,(310) 928-3433,,4.6,18,49,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Pro Nails Salon,(424) 398-0028,,4.5,42,48,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lovely Nails Studio,(310) 263-1362,,4.3,95,47,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Four seasons Nails-Bar,(310) 648-8494,,4.4,93,46,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Unique Nails & Spa,(310) 318-5188,,4.5,81,45,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Princess Nails & Spa,(310) 543-1300,,4.7,39,44,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+E Z Nails,(310) 326-1273,,4.5,62,43,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Paula's Nails,(310) 851-8125,,4.4,90,42,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lovely Nails,(310) 937-7338,,4.6,53,41,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+wonder nails,(310) 373-9031,,4.5,37,38,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Cutee Nails,(310) 542-3694,,4.6,90,37,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+J'adore Nail Bar,(310) 817-4845,,4.3,58,36,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Larry's Nails,(310) 630-0923,,4.5,86,33,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Shiny Nails,(310) 830-9190,,4.1,82,32,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Design & Spa,(310) 515-4889,,4.3,84,31,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+EVERYthing NAILS,(424) 344-2088,,4.3,98,30,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+MB nails and spa,(310) 372-0197,,4.5,69,29,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Top Line Nails,(310) 370-7977,,4.8,69,25,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+OMG Nail Lounge,(310) 316-8494,,4.7,46,23,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Elegant Nails Spa,(310) 214-0885,,4.6,31,22,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Mignonne Nail Bar Of RB,(424) 390-4333,,4.5,74,21,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Dream Nails,(310) 318-2213,,4.6,62,20,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lovely Nails Studio,(310) 263-1362,,4.3,95,19,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Famous Nails,(310) 516-8660,,4.3,58,18,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Verdes Nail & Spa,(310) 720-0008,,4.9,43,13,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Serenity Nails Spa,(424) 398-0030,,4.9,60,7,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Gardena Nails,(626) 202-5270,,4.5,82,6,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+JML Beauty Nail Salon,(323) 531-8031,,5.0,11,5,Torrance,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+LYLY SPA AND NAILS,(714) 858-7008,,4.3,44,120,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Spot,(714) 991-3700,,4.2,29,118,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Exxcel Nail & Spa,(714) 784-6677,,4.3,33,117,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails Luv & Spa,(714) 828-8808,,3.9,62,116,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Gala Nails & Spa,(714) 773-9581,,4.2,33,115,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails Studio,(562) 943-9183,,4.2,38,113,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Tru Nail Spa,(562) 860-2387,,4.0,67,112,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Victoria Nails & Spa,(562) 947-3800,,4.3,23,111,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails Art Spa,(562) 809-3904,,4.2,39,110,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+3 Thirty 3 Nail Bar - Brea,(714) 983-7556,,4.0,72,109,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Glamorous Nail Spa,(657) 527-8733,,4.6,49,108,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fabulous nail & spa,(562) 627-1649,,4.1,56,107,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Color Nails,(657) 444-9588,,4.2,63,106,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+TA Nails & Spa,(562) 864-2603,,4.0,66,105,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+VIP Organic Nails,(714) 721-7421,,4.7,12,104,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Luxury Nails and Spa,(562) 393-3936,,4.0,18,103,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Ruby Nails & Spa Fullerton,(714) 447-4861,,4.3,62,102,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bella Nails & Spa,(714) 784-6669,,4.0,57,101,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Daisy Nail & Spa,(714) 533-2457,,4.3,34,100,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Pearl Nail & Hair,(714) 526-5435,,4.4,67,99,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+PLC Nail Spa,(714) 671-3129,,4.2,69,98,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fancy Nails & Spa,(562) 944-4752,,4.3,42,97,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+J & J Nails & Spa,(562) 863-1939,,4.0,48,96,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Rainbow Nails,(714) 736-9278,,4.4,68,95,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lux Nail Bar Cerritos,(562) 210-8167,,3.7,80,94,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Ivy Nails & Spa,(562) 903-7724,,4.0,67,93,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Elite Nails,(562) 929-3500,,3.8,56,92,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Tip Top Nails,(714) 525-9171,,3.4,97,91,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Papillon Nails & Spa,(714) 871-9999,,4.5,82,90,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Paisley Nail Spa,(714) 787-7463,,4.6,30,89,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Luna Boutique,(714) 582-2269,,4.9,7,88,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+MCS NAILS & SPA,(562) 860-0890,,4.1,74,87,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hi-Tek Nails,(562) 697-0773,,4.3,69,86,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+CLK Nails,(714) 519-3035,,4.6,29,83,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Queen's Nails,(562) 860-4949,,4.3,66,81,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+LA Nails Salon,(562) 809-7468,,4.3,58,80,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Artistry - Non Toxic Nail Salon,(562) 784-7011,,4.8,26,79,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+KC Nails & Spa,(562) 697-5053,,4.1,73,78,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Apple Nails & Spa,(714) 257-9476,,4.3,72,77,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Toe-riffic Nails Lounge,(714) 990-8918,,4.5,86,76,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Q Nails,(562) 462-1992,,4.1,84,75,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Lane,(714) 635-1369,,3.8,72,74,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lush Nails & Spa,(562) 266-3384,,4.4,42,73,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+InStyle Nails,(562) 697-2200,,4.3,76,71,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Elegant Nail Spa,(562) 404-9902,,4.1,89,70,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+D & P Nails,(657) 258-0120,,4.3,43,69,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nailogy Lab,(714) 900-2628,,4.7,63,68,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Exotic Nail,(562) 902-9676,,4.5,37,67,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lotus Nail Spa,(562) 924-1340,,4.3,92,66,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Love nails,(714) 528-4868,,4.5,49,65,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Pro Nails,(562) 429-5530,,4.4,58,63,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Elite Nails & Spa 10% Off Gel-X 20% Eyelash Ext,(657) 444-2548,,4.5,87,62,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hi Top Hair & Nails,(714) 993-5933,,4.8,34,61,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Simply Nail Bar Brea,(714) 494-1398,,4.4,74,60,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Cheri Nail Bar,(714) 671-3129,,4.7,27,59,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Queen Nails Santa Fe Springs,(562) 348-0011,,4.6,98,58,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+shimmer nails spa,(714) 229-0490,,4.7,29,57,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+The Upscale Nail,(951) 609-6655,,4.7,19,54,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Heidy Vip Nail And Spa,(562) 219-0347,,4.9,41,53,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Noble Nail Studio,(562) 202-3798,,5.0,40,51,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+La Palma Nails & Spa,(714) 220-5918,,4.3,63,50,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Tropical Nails & Spa,(562) 690-8246,,4.5,44,49,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Friendly Nails & Spa,(562) 652-4386,,4.6,54,48,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+The Finest Nails,(714) 626-0553,,4.2,75,47,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Luxury Hair & Nails,(562) 947-5372,,4.5,84,46,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+First Nail Spa,(714) 758-3602,,4.3,79,45,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+La Brea Nails,(714) 671-3133,,4.4,48,44,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+3D nails,(714) 826-9824,,4.7,55,41,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Spa,(562) 916-0144,,4.3,76,38,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Blooming nails and spa,(657) 341-8777,,4.5,78,36,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Hug Nails,(714) 990-3150,,4.7,52,35,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Golden Nails & Spas,(714) 670-1477,,4.5,81,34,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Dolce Nails,(714) 256-1558,,4.6,35,33,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Helen's Nails & Spa,(562) 758-3390,,4.9,34,32,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+LT NAILS & SPA,(714) 451-1019,,4.4,63,31,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Love Nails & Spa,(714) 451-1066,,4.5,83,30,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Tyler Nails Spa,(714) 821-8031,,4.7,32,28,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+VIP NAILS Lounge,(714) 735-8046,,4.6,98,27,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+4 Seasons Nails & Spa,(714) 993-9260,,4.8,40,26,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Elite Nail Bar,(562) 402-7031,,4.5,68,24,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lavender Nail Spa,(562) 351-1735,,4.7,51,23,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+VIP NAILS Lounge,(714) 735-8046,,4.6,98,15,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Classy Nail Bar,(714) 992-2509,,4.9,34,11,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+IColor Nail Lounge,(657) 679-7502,,4.7,85,10,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Royal Nails,(714) 827-6201,,4.7,68,7,Fullerton,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Express Nail,(813) 932-7609,,4.8,92,63,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+LN Nails & Spa Salon,(813) 398-1010,,4.6,77,37,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Naomi Nail Salon,(727) 585-5069,,5.0,11,24,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Hot Nails,(813) 898-2741,,3.7,89,23,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Perfect 10 Nail Salon,(813) 242-6245,,4.5,51,20,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+V Nail and Beauty Tampa,(813) 282-9730,,4.9,1,9,Tampa,FL,GMT-05:00 America/New_York (EST),Nail salon
+Fancy Nails & Spa,(432) 332-6650,,4.1,91,119,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Salon 52,(432) 550-0288,,4.3,54,118,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Louis Spa,(432) 366-4435,,4.7,14,117,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Ray-Clark Salon,(432) 697-1508,,4.1,13,116,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Greenwood Nails and Spa,(432) 247-1194,,4.1,57,111,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Vida Nails And Spa,(432) 614-0609,,4.4,90,107,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+D K Nails & Spa,(432) 366-0084,,4.2,94,105,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Color Nails of Odessa,(432) 272-2525,,4.9,83,103,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Serenity Salon & Spa,(432) 570-5859,,4.5,33,96,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sophsti-Cuts Salon,(432) 689-2887,,4.7,42,93,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Us Nails,(432) 362-1717,,4.0,1,92,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Kiikkis,(432) 352-8164,,,0,91,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+A'RaeDidIt,(469) 693-1087,,,0,85,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Shear Class Salon,(432) 278-8825,,5.0,1,83,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Nailtiques & Spa,(432) 262-6620,,3.3,4,80,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Fancy Nails,(432) 362-2921,,4.2,53,79,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Wynn Nails,(432) 363-3398,,3.6,65,78,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Dollnails,(432) 222-1790,,,0,77,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Texas Nails Bar,(432) 272-6553,,4.6,98,75,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Unique Nails & Spa,(432) 362-1717,,4.8,1,71,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Kilye’s Nalis,(432) 230-6203,,,0,69,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Meraki Nail Bar,(432) 466-9903,,5.0,4,68,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Le Nail Salon,(432) 699-8808,,,0,66,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+James Russell Salon,(432) 559-6750,,5.0,2,63,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Xlent Nails Salon,(432) 301-9898,,,0,62,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Serenity Nail & Spa,(432) 704-5296,,4.0,68,60,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+"Regal Nails, Salon & Spa",(432) 694-6129,,3.5,42,58,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Amado's Salon,(432) 618-9840,,4.5,13,56,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Gala Nails & Spa,(432) 699-8048,,2.9,33,55,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Happy Nails,(432) 688-8818,,3.7,42,53,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lili's Nails & Spa,(432) 272-0237,,3.9,70,51,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Valley Nails and Spa,(432) 614-9909,,3.3,58,50,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Oasis Nails,(432) 682-4435,,3.3,70,49,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+House of nails Midland,(432) 999-1855,,5.0,8,48,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lavender Nails Spa,(432) 704-5405,,3.7,76,47,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+H2O Nails & Spa,(432) 689-2498,,3.7,38,46,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Luxury Nail Spa!,(432) 247-1519,,4.0,84,42,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Top Nail,(432) 218-6061,,4.0,27,39,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+I Love Nails and Spa,(432) 684-9920,,4.2,86,37,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Nail Port Express,(432) 684-6690,,3.9,33,36,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+KD Nails & Spa,(432) 247-5777,,4.0,61,31,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+VII Beauty Lounge,(432) 389-6868,,4.8,80,30,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Magic Nails & Spa,(432) 699-8808,,4.6,87,29,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Lang Nails & Spa,(432) 520-8786,,4.0,86,28,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Royal Nails Spa,(432) 242-1226,,4.3,45,24,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+DIVA NAILS & SPA,(432) 699-5454,,4.1,86,23,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Prestige Nail Lounge,(432) 218-8923,,4.7,35,22,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Vip Nails,(432) 684-3799,,4.2,93,21,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Shine Nails & Spa,(432) 699-8048,,5.0,23,15,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Sky Nail Lounge,(432) 203-7117,,4.3,86,11,Midland,TX,GMT-06:00 US/Central (CST),Nail salon
+Nails by Jacquelynn,(760) 818-5467,,5.0,1,120,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Teresa’s Beauty Salon,(760) 669-5050,,4.3,11,118,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Vanity Salon & Barbershop,(760) 946-0777,,4.3,72,112,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Doin2much,(760) 552-0286,,,0,110,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Deez_Nailzzz,(760) 954-8219,,,0,109,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+A Wild Rose Salon and Spa,(760) 868-1878,,4.7,92,102,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Color Worx Hair and Nail Design,(760) 242-7672,,4.9,31,99,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Arlette Salon And Beauty,(760) 524-1561,,4.7,34,95,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Talking Heads Hair & Nail Salon,(442) 242-2317,,4.5,29,94,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Magic nails,(760) 244-8305,,4.0,67,93,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+#1 Time Nail supply & Nails,(442) 280-5293,,5.0,4,92,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Studio Nails,(760) 949-5541,,4.2,29,89,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Angiiies Beauty Studio,(909) 837-8414,,5.0,15,88,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Studio N Salon,(760) 881-0274,,5.0,5,83,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Kimberly Nail & Spa,(760) 948-2858,,3.3,86,82,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Bella Mia Salon,(760) 947-2712,,4.7,44,80,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+City Nails,(760) 467-0986,,5.0,4,79,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nail Bar & Spa,(760) 947-0500,,3.8,84,78,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fancy Nails,(760) 947-7555,,4.5,68,76,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Enter Nail Spa,(760) 241-8389,,3.1,55,74,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Harmony Nails and Spa,(760) 530-9900,,3.2,32,73,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Le Posh Nails & Spa,(760) 949-2299,,4.6,39,72,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Luxe Nail Bar,(760) 613-1537,,4.8,20,71,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+I Love Nails Salon,(442) 229-2176,,4.5,8,69,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Apple valley nails,(760) 242-2938,,3.8,23,65,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails By Helen,(760) 241-2277,,5.0,7,64,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Nails By Orientals,(760) 956-7527,,3.8,47,63,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+i Nails Spa,(760) 998-5140,,5.0,5,60,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Eagle Nails & Spa NA,(760) 955-6438,,3.3,88,58,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Sky Nails,(760) 244-6657,,4.0,69,54,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Gotcha Nail Spa,(760) 991-6688,,4.0,87,53,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Super Hot Nails & Spa,(760) 242-1464,,4.1,54,44,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Time For Nails & Spa,(442) 800-5176,,4.7,24,38,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Jasmine Nails Spa,(760) 596-3307,,4.1,99,37,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Chip-N-Nails,(760) 952-2003,,4.3,36,36,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+First Nails,(760) 961-1813,,4.8,46,32,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+All Star Nails & Spa,(760) 503-1141,,5.0,24,31,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Classic Nails,(760) 955-9995,,4.5,82,29,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Lilly's Nails,(760) 998-2228,,4.6,29,28,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Fabulous Nails,(760) 669-0891,,4.5,46,20,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
+Royal Nails Spa,(760) 241-8389,,4.9,51,12,Victorville,CA,GMT-08:00 America/Los_Angeles (PST),Nail salon
